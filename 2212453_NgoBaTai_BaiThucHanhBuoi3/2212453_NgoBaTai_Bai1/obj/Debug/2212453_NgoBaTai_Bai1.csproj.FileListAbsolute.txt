@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\bin\Debug\2212453_NgoBaTai_Bai1.exe.config
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\bin\Debug\2212453_NgoBaTai_Bai1.exe
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\bin\Debug\2212453_NgoBaTai_Bai1.pdb
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\2212453_NgoBaTai_Bai1.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\_2212453_NgoBaTai_Bai1.Form1.resources
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\_2212453_NgoBaTai_Bai1.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\2212453_NgoBaTai_Bai1.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\2212453_NgoBaTai_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\2212453_NgoBaTai_Bai1.exe
+C:\Users\PC602\Downloads\2212453_NgoBaTai_BaiThucHanhBuoi3\2212453_NgoBaTai_Bai1\obj\Debug\2212453_NgoBaTai_Bai1.pdb

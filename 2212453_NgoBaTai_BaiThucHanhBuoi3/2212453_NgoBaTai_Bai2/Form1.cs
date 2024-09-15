@@ -36,5 +36,5 @@ namespace _2212453_NgoBaTai_Bai2
             else
                 txtToMau.BackColor = Color.Blue;
         }
-    }
+	}
 }

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_ngobatai_vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|solutionrelative:2212453_ngobatai_vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|d:\\code\\c#\\2212453_ngobatai_phattrienungdungdesktop\\2212453_ngobatai_lab2\\2212453_ngobatai_vd2\\frmgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|solutionrelative:2212453_ngobatai_vd2\\frmgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_ngobatai_vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|solutionrelative:2212453_ngobatai_vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|d:\\code\\c#\\2212453_ngobatai_phattrienungdungdesktop\\2212453_ngobatai_lab2\\2212453_ngobatai_vd2\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|solutionrelative:2212453_ngobatai_vd2\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|d:\\code\\c#\\2212453_ngobatai_phattrienungdungdesktop\\2212453_ngobatai_lab2\\2212453_ngobatai_vd2\\frmgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80E4569-4E00-4C44-A0AD-42D1902BB2C9}|2212453_NgoBaTai_VD2\\2212453_NgoBaTai_VD2.csproj|solutionrelative:2212453_ngobatai_vd2\\frmgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GiaoVien.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\GiaoVien.cs",
-              "RelativeDocumentMoniker": "2212453_NgoBaTai_VD2\\GiaoVien.cs",
-              "ToolTip": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\GiaoVien.cs",
-              "RelativeToolTip": "2212453_NgoBaTai_VD2\\GiaoVien.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:40:28.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\Form1.cs",
-              "RelativeDocumentMoniker": "2212453_NgoBaTai_VD2\\Form1.cs",
-              "ToolTip": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\Form1.cs",
-              "RelativeToolTip": "2212453_NgoBaTai_VD2\\Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAASwBUAAAAAAAAA",
+              "Title": "frmGiaoVien.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\frmGiaoVien.cs",
+              "RelativeDocumentMoniker": "2212453_NgoBaTai_VD2\\frmGiaoVien.cs",
+              "ToolTip": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\frmGiaoVien.cs",
+              "RelativeToolTip": "2212453_NgoBaTai_VD2\\frmGiaoVien.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswCYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T08:40:21.277Z",
+              "WhenOpened": "2024-09-16T13:25:56.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\Form1.cs",
-              "RelativeDocumentMoniker": "2212453_NgoBaTai_VD2\\Form1.cs",
-              "ToolTip": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\Form1.cs [Design]",
-              "RelativeToolTip": "2212453_NgoBaTai_VD2\\Form1.cs [Design]",
+              "Title": "frmGiaoVien.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\frmGiaoVien.cs",
+              "RelativeDocumentMoniker": "2212453_NgoBaTai_VD2\\frmGiaoVien.cs",
+              "ToolTip": "D:\\Code\\C#\\2212453_NgoBaTai_PhatTrienUngDungDesktop\\2212453_NgoBaTai_Lab2\\2212453_NgoBaTai_VD2\\frmGiaoVien.cs [Design]",
+              "RelativeToolTip": "2212453_NgoBaTai_VD2\\frmGiaoVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T08:40:21.981Z",
               "EditorCaption": " [Design]"

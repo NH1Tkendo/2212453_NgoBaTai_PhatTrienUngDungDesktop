@@ -10,16 +10,15 @@ using System.Windows.Forms;
 
 namespace _2212453_NgoBaTai_VD2
 {
-    public partial class frmGiaoVien : Form
-    {
-        public frmGiaoVien()
-        {
-            InitializeComponent();
-        }
-
-        private void frmGiaoVien_Load(object sender, EventArgs e)
-        {
-
-        }
-    }
+	public partial class frmTBGiaoVien : Form
+	{
+		public frmTBGiaoVien()
+		{
+			InitializeComponent();
+		}
+		public void SetText(string s)
+		{
+			this.lblThongBao.Text = s;
+		}
+	}
 }
